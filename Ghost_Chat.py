@@ -7,7 +7,7 @@ import time
 st.title("Ghost AI 🗿🗿🗿")
 
 # Initialise message
-init_msg = """Hey there! **Ghost AI** 🗿🗿🗿 here, your **handy recruitment assistant**. 
+init_msg = """Hey there! **Ghost AI** 🗿🗿🗿 here, your **handy recruitment assistant**.
 Got any **questions** about your **application progress**?\n\nNo worries! **Just ask!**\n\n
 Feel free to mention your **name**, the **position** you applied for, 
 and the **company**—or we can just have a **casual chat**.\n\nWhether you need 
@@ -70,5 +70,7 @@ if not st.session_state.messages:
 
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
+            st.image('ghost_img.png', caption='Ghost AI 🗿🗿🗿')
             st.write_stream(stream_first(message["content"].split(" ")))
+
 
