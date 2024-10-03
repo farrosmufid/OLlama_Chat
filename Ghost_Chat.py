@@ -3,7 +3,7 @@ import ollama
 import tempfile
 
 # App title
-st.title("Ghost AI")
+st.title("Ghost AI 🗿🗿🗿")
 
 # First time load messages is empty
 if "messages" not in st.session_state:
