@@ -1,9 +1,8 @@
 # OLlama Chat Bot
 
-• A working OLlama Chat Bot experiment built using Streamlit.
+• A fun project featuring the OLlama Chat Bot and customised versions I created using Streamlit.
 
-# TO DO
+# Customised Bot
 
-• Create a customised Chat Bot. 
+• Ghost Chat: AI bot that always responds with automated rejection emails 🗿🗿🗿.
 
-• Try to implement memory in OLlama.
