@@ -4,5 +4,8 @@
 
 # Customised Bot
 
-• Ghost Chat: AI bot that always responds with automated rejection emails 🗿🗿🗿.
+• **Ghost Chat**: AI bot that always responds with automated rejection emails.
+
+• **Linguo Bot**: Grammar-correcting robot.
+
 
