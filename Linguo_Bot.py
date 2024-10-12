@@ -10,7 +10,7 @@ st.image('linguo_img.webp', width = 200, caption='Linguo Bot: Still under develo
 init_msg = """
 Hi, I'm Linguo Bot, a grammar-checking robot inspired by The Simpsons. 
 I'm an expert in checking grammar. 
-Send me a sentence you'd like me to fix!"
+Send me a sentence you'd like me to fix!
 """
 
 # Function to stream the assistant first
